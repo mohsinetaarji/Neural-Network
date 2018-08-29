@@ -1,4 +1,9 @@
 # Neural-Network
+
+Machine Learning EE-690
+Course Professor: Leon Jololian, Ph.D.
+University of alabama at birmingham
+
 Digits dataset
 
 For this assignment, you are asked to implement a neural
